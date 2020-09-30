@@ -21,6 +21,7 @@
 ![Open the notebook](https://img.shields.io/badge/Jupyter-Notebook-blueviolet?logo=Jupyter)
 ![GoogleColab](https://colab.research.google.com/assets/colab-badge.svg)
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
+![](https://img.shields.io/badge/Pytorch-2376bc?style=flat-square&logo=Pytorch&logoColor=ee4c2c)
 
 ## 🌸Video tutorials & Blogs
 
