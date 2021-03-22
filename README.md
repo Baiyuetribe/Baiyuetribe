@@ -8,10 +8,10 @@
 
 ## 🎍 My Skills
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Mysql](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask&logoColor=FFFFFF)
 
