@@ -24,7 +24,7 @@ I'm BaiYue, a full-stack developer, like web development, artificial intelligenc
 
 ## ⚡My latest work
 
-- ⭐[Papger2GUI](https://github.com/Baiyuetribe/paper2gui)  Make it easy and convenient for everyone to use artificial intelligence technology
+- ⭐[Paper2GUI](https://github.com/Baiyuetribe/paper2gui)  Make it easy and convenient for everyone to use artificial intelligence technology
 - ⭐[Naive-ui with Nuxt3](https://github.com/Baiyuetribe/nuxt3-naive-ui-starter)  A starter example for naive-ui with nuxt3.
 - ⭐[kamiFaka](https://github.com/Baiyuetribe/kamiFaka)  A virtual goods knowledge pay mall system
 
