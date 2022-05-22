@@ -18,7 +18,7 @@ I'm BaiYue, a full-stack developer, like web development, artificial intelligenc
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=npm)
-![C++](https://img.shields.io/badge/-C/C++-black?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
 ![Mysql](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/-pytorch-black?style=flat-square&logo=Pytorch&logoColor=ee4c2c)
 
