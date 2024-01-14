@@ -14,18 +14,17 @@ I'm BaiYue, a full-stack developer, like web development, artificial intelligenc
 
 ## 🎍 My Skills
 
-![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=npm)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
 ![Mysql](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/-pytorch-black?style=flat-square&logo=Pytorch&logoColor=ee4c2c)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 
 ## ⚡My latest work
 
+- ⭐[RuPa](https://github.com/Baiyuetribe/rupa)  A Linux control panel based on Rust+VUE3
 - ⭐[Paper2GUI](https://github.com/Baiyuetribe/paper2gui)  Make it easy and convenient for everyone to use artificial intelligence technology
-- ⭐[Naive-ui with Nuxt3](https://github.com/Baiyuetribe/nuxt3-naive-ui-starter)  A starter example for naive-ui with nuxt3.
 - ⭐[kamiFaka](https://github.com/Baiyuetribe/kamiFaka)  A virtual goods knowledge pay mall system
 
 
